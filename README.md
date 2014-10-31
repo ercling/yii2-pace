@@ -38,6 +38,6 @@ If you would like to make some tweaks you can use **color**, **theme** and **opt
     ]
 ])?>
 ```
-You can preview themes and colors (here)[http://github.hubspot.com/pace/docs/welcome/] and (here)[https://eager.io/app/kYKTiQjoVjQk/install].
+You can preview **themes** and **colors** [here](http://github.hubspot.com/pace/docs/welcome/) and [here](https://eager.io/app/kYKTiQjoVjQk/install).
 
-For list of **options** see (documentation)[http://github.hubspot.com/pace/] or (this source file)[https://github.com/HubSpot/pace/blob/master/pace.coffee]
+For list of **options** see [documentation](http://github.hubspot.com/pace/) or [this source file](https://github.com/HubSpot/pace/blob/master/pace.coffee).
