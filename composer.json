@@ -1,21 +1,21 @@
 {
-    "name": "ercling/yii2-pace",
+    "name": "vensonk/yii2-pace",
     "type": "yii2-extension",
     "description": "Automatic page load progress bar. The PACE plugin integration for Yii2 Framework",
     "keywords": ["yii2", "PACE", "loading"],
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/ercling/yii2-pace/issues",
-        "source": "https://github.com/ercling/yii2-pace"
+        "issues": "https://github.com/vensonk/yii2-pace/issues",
+        "source": "https://github.com/vensonk/yii2-pace"
     },
     "authors": [
         {
-            "name": "Oleksandr Mykhailiuta",
-            "email": "ercling@gmail.com"
+            "name": "Venson Kuchipudi",
+            "email": "venson@thelifenet.com"
         },
         {
-            "name": "HubSpot",
-            "homepage":"http://dev.hubspot.com"
+            "name": "Life Net Inc.",
+            "homepage":"http://www.thelifenet.com"
         }
     ],
     "require": {
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ercling\\pace\\": ""
+            "vensonk\\pace\\": ""
         }
     }
 }
