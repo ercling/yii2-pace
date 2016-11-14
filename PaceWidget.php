@@ -21,7 +21,7 @@ class PaceWidget extends \yii\base\Widget
         }
 
         PaceAsset::register($this->getView());
-        $asset=\Yii::$app->assetManager->publish("@ercling/pace/assets",['forceCopy'=>YII_DEBUG]);
+        $asset=\Yii::$app->assetManager->publish("@vensonk/pace/assets",['forceCopy'=>YII_DEBUG]);
 
         $this->getView()->registerCssFile($asset[1].'/themes/'.$this->color.'/pace-theme-'.$this->theme.'.css');
     }
