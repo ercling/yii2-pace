@@ -1,6 +1,6 @@
 <?php
 
-namespace ercling\pace;
+namespace vensonk\pace;
 
 use yii\web\AssetBundle;
 use Yii;
