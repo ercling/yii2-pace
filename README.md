@@ -11,12 +11,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require ercling/yii2-pace "*"
+php composer.phar require vensonk/yii2-pace "*"
 ```
 or add
 
 ```
-"ercling/yii2-pace": "*"
+"vensonk/yii2-pace": "*"
 ```
 
 to the require section of your `composer.json` file.
