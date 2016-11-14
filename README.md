@@ -11,12 +11,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require ercling/yii2-pace "*"
+php composer.phar require vensonk/yii2-pace "*"
 ```
 or add
 
 ```
-"ercling/yii2-pace": "*"
+"vensonk/yii2-pace": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -26,11 +26,11 @@ Usage
 
 Once the extension is installed, simply put in your view
 ```php
-<?=ercling\pace\PaceWidget::widget()?>
+<?=vensonk\pace\PaceWidget::widget()?>
 ```
 If you would like to make some tweaks you can use **color**, **theme** and **options** like this:
 ```php
-<?=ercling\pace\PaceWidget::widget([
+<?=vensonk\pace\PaceWidget::widget([
     'color'=>'red',
     'theme'=>'corner-indicator',
     'options'=>[

@@ -1,13 +1,13 @@
 <?php
 
-namespace ercling\pace;
+namespace vensonk\pace;
 
 use yii\web\AssetBundle;
 use Yii;
 
 class PaceAsset extends AssetBundle
 {
-    public $sourcePath = '@ercling/pace/assets';
+    public $sourcePath = '@vensonk/pace/assets';
     public $jsOptions=['position'=>\yii\web\View::POS_END,/*'data-pace-options'=>'{"ajax": false,"startOnPageLoad":false,"restartOnPushState":false}'*/];
 
 
