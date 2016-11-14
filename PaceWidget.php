@@ -1,6 +1,6 @@
 <?php
 
-namespace ercling\pace;
+namespace vensonk\pace;
 
 class PaceWidget extends \yii\base\Widget
 {
