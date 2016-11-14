@@ -24,7 +24,7 @@ to the require section of your `composer.json` file.
 Usage
 -----
 
-Once the extension is installed, simply put in your view
+Once the extension is installed, simply put in your view.
 ```php
 <?=ercling\pace\PaceWidget::widget()?>
 ```
